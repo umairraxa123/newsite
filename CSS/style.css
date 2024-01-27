@@ -1,0 +1,37 @@
+body {background-color:#979dac ;
+margin: 0px;
+padding: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;}
+
+h1{color: #001233;}
+    p{}
+  a{}  
+
+
+.first_line {
+    color:#001233 ;
+    font-weight: bold;
+    
+}
+
+.featured{background-color: #5c677d; color:ccdbdc;}
+
+.extra{font-size: 24px;}
+.logo{
+    margin: 10px auto;
+    text-align: center;
+}
+
+header{
+    width: auto;
+    border: 2px solid #001233;
+    margin: 0px auto;
+}
+footer{
+    color: #dde5b6;
+    text-align: center;
+    margin: 0px auto;
+    background-color: #001845;
+    padding: 20px 0px;
+}
